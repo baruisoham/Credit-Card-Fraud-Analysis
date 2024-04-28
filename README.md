@@ -1,4 +1,5 @@
 # Credit Card Fraud Analysis
+Includes mutliple feature selection algorithms & outlier detection methods, tried and tested, finally concluding on which method gave us the best results.
 
 Dataset taken from `https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud`
 
